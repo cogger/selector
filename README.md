@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/cogger/selector/badge.svg?branch=master)](https://coveralls.io/r/cogger/selector?branch=master)  
 [![License](http://img.shields.io/:license-apache-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
-selector adds generic data to contexts
+selector adds a select like case to cog execution
 
 ## Usage
 ~~~ go
