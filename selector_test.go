@@ -138,7 +138,6 @@ func (limit *mockLimit) Next(ctx context.Context) chan struct{} {
 		next <- struct{}{}
 	}()
 	return next
-
 }
 
 func (limit *mockLimit) Done(ctx context.Context) {
