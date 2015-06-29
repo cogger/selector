@@ -1,4 +1,4 @@
-package selector_test
+package selector
 
 import (
 	. "github.com/onsi/ginkgo"

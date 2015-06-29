@@ -1,9 +1,7 @@
-package selector_test
+package selector
 
 import (
 	"errors"
-
-	. "github.com/cogger/selector"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

@@ -7,13 +7,21 @@
 
 selector adds a select like case to cog execution
 
+## Installation
+
+The import path for the package is *gopkg.in/cogger/selector.v1*.
+
+To install it, run:
+
+    go get gopkg.in/cogger/stash.v1
+
 ## Usage
 ~~~ go
 // main.go
 package main
 
 import (
-	"github.com/cogger/selector"
+	"gopkg.in/cogger/selector.v1"
 	"golang.org/x/net/context"
 	"gopkg.in/cogger/cogger.v1/wait"
 	"gopkg.in/cogger/cogger.v1/cogs"
